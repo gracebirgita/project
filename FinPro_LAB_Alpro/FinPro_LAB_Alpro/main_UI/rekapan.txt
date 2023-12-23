@@ -1,0 +1,60 @@
+Tanggal Transaksi;Nama Pembeli;Jenis Barang;Nama Barang;Jumlah Barang;Harga Barang;Total Pembayaran
+11/1/2020;RISKA;Frozen Food;Ayam;4;50000;200000
+11/1/2021;RAFLY;Frozen Food;Daging;5;66000;330000
+11/1/2022;RAFLY;Frozen Food;Nugget;7;40000;280000
+11/1/2023;RAFLY;Frozen Food;Sosis;2;5000;10000
+11/1/2022;DINA;Frozen Food;Kentang;3;10000;30000
+11/1/2022;DINA;Minuman;susu;4;7000;28000
+11/1/2020;BRIAN;Minuman;air mineral;7;4000;28000
+11/1/2023;BRIAN;Minuman;soda;8;4000;32000
+11/1/2023;BRIAN;Minuman;jus kotak;9;5000;45000
+11/1/2022;GRACE;Minuman;teh kemasan;1;8000;8000
+12/2/2022;TINA;Peralatan;Panci;3;90000;270000
+12/2/2021;TINA;Peralatan;Sikat;4;70000;280000
+12/2/2023;TINA;Peralatan;Keset;5;35000;175000
+12/2/2021;TINA;Peralatan;semir sepatu;7;45600;319200
+12/2/2023;SASA;Peralatan;kapur barus;5;67500;337500
+12/2/2023;GRACE;Makanan ringan;Lays;9;15400;138600
+12/2/2021;FANIA;Makanan ringan;Citato;7;6700;46900
+12/2/2019;FANIA;Makanan ringan;Taro;5;5300;26500
+15/5/2023;FANIA;Makanan ringan;Oreo;4;9700;38800
+15/5/2022;SASA;Makanan ringan;Pringles;2;14600;29200
+15/5/2023;SASA;Fresh Food;Ayam bakar;3;54000;162000
+15/5/2023;RISKA;Fresh Food;Nasi goreng;5;43300;216500
+17/7/2022;EMMA;Fresh Food;Bakso;4;23400;93600
+17/7/2023;EMMA;Fresh Food;Burger;3;45700;137100
+17/7/2021;EMMA;Fresh Food;Soto;8;44200;353600
+17/7/2021;HANI;Permen;Yupi;1;22800;22800
+18/8/2020;HANI;Permen;Milkita;3;25300;75900
+18/8/2019;IKA;Permen;Kopiko;3;24600;73800
+18/8/2019;IKA;Permen;Mintz;5;27300;136500
+19/9/2018;HANI;Permen;Relaxa;6;33600;201600
+1/1/2020;adi;frozen food;Ayam;10;20000;200000
+1/1/2001;Rafly;Frozen Food;Ayam;10;10000;100000
+2/2/2002;Raflu;Frozen Food;Ayam;1;10000;10000
+1/1/2001;Rafly;Frozen Food;Ayam;1;10000;10000
+1/1/2001;Rafly;Frozen Food;Ayam;1;10000;10000
+1/1/2001;Rafly;Frozen Food;Ayam;20;10000;200000
+1/1/2001;Rafly;Frozen Food;Ayam;10;10000;100000
+1/1/2001;Rafly;frozen food;ayam;10;10000;100000
+1/1/2001;Rafly;Frozen Food;Ayam;10;10000;100000
+1/1/2001;Rafly;Frozen Food;Ayam;10;10000;100000
+1/1/2001;Rafly;Frozen Food;ayam;10;10000;100000
+1/1/2001;rafly;Frozen Food;ayam;10;10000;100000
+1/1/2001;rafly;Frozen Food;ikan;20;10000;200000
+1/1/2001;Rafly;Frozen Food;Ayam;10;10000;100000
+1/1/2001;Rafly;Frozen Food;Ayam;10;10000;100000
+1/1/2001;Rafly;Frozen Food;Ayam;10;10000;100000
+1/1/1;1;Frozen Food;ayam;10;10000;100000
+1/1/2001;Rafly;Frozen Food;Ayam;10;10000;100000
+1/1/2001;Rafly;Frozen Food;Ayam;5;10000;50000
+1/1/2001;brian;Frozen Food;ayam;2;10000;20000
+1/1/2001;Rafly;Frozen Food;Ayam;10;10000;100000
+1/1/2001;Rafly;Frozen Food;Ayam;10;10009;100090
+23/1/2001;gg;Other;balon;10;7000;70000
+1/1/2001;Rafly;Frozen Food;Ayam;20;10000;200000
+1/1/2020;rafly;Frozen Food;ayam;10;10000;100000
+12/2/2022;Raflyy;Frozen Food;Ayam;10;20000;200000
+21/1/2020;Rafly;Frozen Food;Ayam;10;20000;200000
+1/1/2020;Grace;Frozen Food;Ayam;20;10000;200000
+21/1/2001;Rafly;Frozen Food;Ayam;20;10000;200000

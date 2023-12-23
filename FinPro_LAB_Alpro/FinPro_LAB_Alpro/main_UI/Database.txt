@@ -1,0 +1,42 @@
+Jenis Barang;Nama Barang;Jumlah Barang
+Frozen Food;Ayam;140
+Frozen Food;Daging;50
+Frozen Food;Nugget;100
+Frozen Food;Sosis;345
+Frozen Food;Kentang;557
+Minuman;susu;788
+Minuman;air mineral;982
+Minuman;soda;684
+Minuman;jus kotak;543
+Minuman;teh kemasan;443
+Peralatan;Panci;40
+Peralatan;Sikat;55
+Peralatan;Keset;97
+Peralatan;semir sepatu;20
+Peralatan;kapur barus;54
+Makanan ringan;Lays;77
+Makanan ringan;Citato;533
+Makanan ringan;Taro;886
+Makanan ringan;Oreo;643
+Makanan ringan;Pringles;187
+Fresh Food;Ayam bakar;122
+Fresh Food;Nasi goreng;190
+Fresh Food;Bakso;490
+Fresh Food;Burger;664
+Fresh Food;Soto;548
+Permen;Yupi;275
+Permen;Milkita;231
+Permen;Kopiko;964
+Permen;Mintz;770
+Permen;Relaxa;880
+Frozen Food;dimsum;10
+Frozen Food;bakso;100
+Frozen Food;ikan;80
+Other;balon;10
+Other;karet;10
+Minuman;Yogurt;10
+Permen;Marshmallow;20
+Other;balon;50
+Other;tahu;20
+Minuman;orang tua;20
+Other;botol;10
